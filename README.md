@@ -11,9 +11,9 @@ This repository is not produced, endorsed, supported, or affiliated with Bethesd
 
 Avatar name	Wiki page
 
-![T-51f-Power-Armor-Female.png](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/T-51f-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
+T-51f-Power-Armor-Female.png	!(https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/T-51f-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
 
-![T-51f-Power-Armor-Male.png](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/T-51f-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
+T-51f-Power-Armor-Male.png	!(https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/T-51f-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
 
 T-60d-Power-Armor-Female.png	!(https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/T-60d-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-60d_power_armor
 
