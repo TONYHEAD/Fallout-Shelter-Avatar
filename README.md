@@ -8,12 +8,12 @@ This repository is not produced, endorsed, supported, or affiliated with Bethesd
 [The Fallout Wiki](http://fallout.wikia.com/wiki/Fallout_Shelter_outfits)
 
 Avatar name	Wiki page
-T-51f-Power-Armor-Female.png	(T-51f-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
-T-51f-Power-Armor-Male.png	(T-51f-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
-T-60d-Power-Armor-Female.png	(T-60d-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-60d_power_armor
-T-60d-Power-Armor-Male.png	(T-60d-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-60d_power_armor
-Clergy-outfit.png	(Clergy-outfit.png)	http://fallout.wikia.com/wiki/Clergy_outfit
-Sports-fan-outfit.png	(Sports-fan-outfit.png)	http://fallout.wikia.com/wiki/Sports_fan_outfit
+T-51f-Power-Armor-Female.png	!(T-51f-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
+T-51f-Power-Armor-Male.png	!(T-51f-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-51f_power_armor
+T-60d-Power-Armor-Female.png	!(T-60d-Power-Armor-Female.png)	http://fallout.wikia.com/wiki/T-60d_power_armor
+T-60d-Power-Armor-Male.png	!(T-60d-Power-Armor-Male.png)	http://fallout.wikia.com/wiki/T-60d_power_armor
+Clergy-outfit.png	!(Clergy-outfit.png)	http://fallout.wikia.com/wiki/Clergy_outfit
+Sports-fan-outfit.png	!(Sports-fan-outfit.png)	http://fallout.wikia.com/wiki/Sports_fan_outfit
 Republic-robes.png	(Republic-robes.png)	http://fallout.wikia.com/wiki/Republic_robes
 Wasteland-gear-Female.png	(Wasteland-gear-Female.png)	http://fallout.wikia.com/wiki/Wasteland_gear
 Wasteland-gear-Male.png	(Wasteland-gear-Male.png)	http://fallout.wikia.com/wiki/Wasteland_gear
