@@ -8,6 +8,8 @@ This repository is not produced, endorsed, supported, or affiliated with Bethesd
 
 [The Fallout Wiki](http://fallout.wikia.com/wiki/Fallout_Shelter_outfits)
 
+index transparency = black
+100px*100px
 
 Avatar name	Wiki page
 
@@ -19,7 +21,6 @@ Avatar name	Wiki page
 ![Sports-fan-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Sports-fan-outfit.png)	http://fallout.wikia.com/wiki/Sports_fan_outfit
 ![Republic-robes](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Republic-robes.png)	http://fallout.wikia.com/wiki/Republic_robes
 ![Wasteland-gear-Female](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Wasteland-gear-Female.png)	http://fallout.wikia.com/wiki/Wasteland_gear
-![Wasteland-gear-Male](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Wasteland-gear-Male.png)	http://fallout.wikia.com/wiki/Wasteland_gear
 ![Radiation-suit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Radiation-suit.png)	http://fallout.wikia.com/wiki/Radiation_suit_%28Fallout_Shelter%29
 ![Military-fatigues](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Military-fatigues.png)	http://fallout.wikia.com/wiki/Military_fatigues
 ![Medieval-ruler-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Medieval-ruler-outfit.png)	http://fallout.wikia.com/wiki/Medieval_ruler_outfit
@@ -39,8 +40,12 @@ Avatar name	Wiki page
 ![Nobility-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Nobility-outfit.png)	http://fallout.wikia.com/wiki/Nobility_outfit
 ![Movie-fan-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Movie-fan-outfit.png)	http://fallout.wikia.com/wiki/Movie_fan_outfit
 ![Soldier-uniform](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Soldier-uniform.png)	http://fallout.wikia.com/wiki/Soldier_uniform
-
-
+![Ninja-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Ninja-outfit.png)	http://fallout.wikia.com/wiki/Ninja_outfit
+![Sheriff's-duster](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Sheriff's-duster.png)	http://fallout.wikia.com/wiki/Sheriff's_duster_%28Fallout_Shelter%29
+![X-01-Mk-IV-power-armor](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/X-01-Mk-IV-power-armor.png)	http://fallout.wikia.com/wiki/X-01_Mk_IV_power_armor
+![Knight-armor](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Knight-armor.png)	http://fallout.wikia.com/wiki/Knight_armor
+![Horror-fan-outfit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Horror-fan-outfit.png)	http://fallout.wikia.com/wiki/Horror_fan_outfit
+![Eulogy-Jones'-suit](https://raw.githubusercontent.com/TONYHEAD/Fallout-Shelter-Avatar/master/Eulogy-Jones'-suit.png)	http://fallout.wikia.com/wiki/Eulogy_Jones'_suit_%28Fallout_Shelter%29
 
 
 Looking for  X-01 Mk power armor(both male and female), please share if you have, thanks.
